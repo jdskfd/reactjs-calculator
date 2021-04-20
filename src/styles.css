@@ -1,0 +1,49 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.numDiv {
+  margin-top: 10px;
+  display: flex;
+}
+
+.numBtn {
+  margin-right: 10px;
+  width: 20px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.functionDiv {
+  margin-top: 10px;
+  display: flex;
+}
+
+.functionBtn {
+  margin-right: 10px;
+  width: 30px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.calDiv {
+  margin-top: 10px;
+  display: flex;
+}
+
+.calBtn {
+  width: 30px;
+  margin-right: 10px;
+  border-style: solid;
+  border-width: 1px;
+}
+
+.formula {
+  font-size: 25px;
+  margin-top: 15px;
+  width: auto;
+  height: 30px;
+  border-style: solid;
+  border-width: 1px;
+}
